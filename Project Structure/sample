@@ -1,1 +1,7 @@
-The initial approaches of solving handwriting recognition involved Machine Learning methods like Hidden Markov Models(HMM), SVM etc. Once the initial text is pre-processed, feature extraction is performed to identify key information such as loops, inflection points, aspect ratio etc. of an individual character. These generated features are now fed to a classifier say HMM to get the results. The performance of machine learning models is pretty limited due to manual feature extraction phase and their limited capacity of learning. Feature extraction step varies for every individual language and hence is not scalable. With the advent of deep learning came tremendous improvements in accuracy of handwriting recognition. Let's discuss few of the prominent research in the area of deep learning for handwriting recognition
+The initial approaches of solving handwriting recognition involved Machine Learning methods like Hidden Markov Models(HMM), SVM etc.
+ Once the initial text is pre-processed, feature extraction is performed to identify key information such as loops, inflection points, aspect ratio etc. of an individual character.
+ These generated features are now fed to a classifier say HMM to get the results.
+ The performance of machine learning models is pretty limited due to manual feature extraction phase and their limited capacity of learning. 
+ Feature extraction step varies for every individual language and hence is not scalable.
+ With the advent of deep learning came tremendous improvements in accuracy of handwriting recognition.
+ Let's discuss few of the prominent research in the area of deep learning for handwriting recognition
