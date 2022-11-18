@@ -1,5 +1,5 @@
-The main objective is to recognize online handwritten documents, which includes characters, words, 
+The main objective is to recognize online handwritten digits
 
-lines, paragraphs etc. There is extensive work in the field of handwriting recognition, and a number of reviews 
+There is extensive work in the field of handwriting recognition, and a number of reviews 
 exits. Our approach is to recognize handwriting by using templates. Along with this we maintain a unique user 
 accounts, which enables a particular user to create his/her training sets.
