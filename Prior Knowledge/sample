@@ -1,1 +1,27 @@
+Prior Knowledge
+One should have knowledge on the following Concepts :
 
+Supervised and unsupervised learning:
+
+Supervised learning algorithms are trained using labeled data. Unsupervised learning algorithms are trained using unlabeled data.
+Supervised learning model takes direct feedback to check if it is predicting correct output or not. Unsupervised learning model does not take any feedback.
+
+Regression Classification and Clustering :
+
+Regression and Classification are types of supervised learning algorithms while Clustering is a type of unsupervised algorithm.
+When the output variable is continuous, then it is a regression problem whereas when it contains discrete values, it is a classification problem.
+
+Artificial Neural Networks:
+
+Artificial neural networks, usually simply called neural networks or neural nets, are computing systems inspired by the biological neural networks that constitute animal brains.
+An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain
+
+Convolution Neural Networks :
+
+A convolutional neural network (CNN) is a type of artificial neural network used primarily for image recognition and processing, due to its ability to recognize patterns in images.
+A CNN is a powerful tool but requires millions of labelled data points for training.
+
+Flask :
+
+Flask is a web application framework written in Python. Armin Ronacher, who leads an international group of Python enthusiasts named Pocco, develops it. 
+Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Both are Pocco projects.
