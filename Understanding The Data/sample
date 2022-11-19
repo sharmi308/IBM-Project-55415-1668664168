@@ -1,1 +1,6 @@
 
+ML depends heavily on data, without data, it is impossible for a machine to learn.
+It is the most crucial aspect that makes algorithm training possible. In Machine Learning projects, we need a training data set.
+It is the actual data set used to train the model for performing various actions.
+TensorFlow already has MNist Data set so there is no need to explicitly download or create Dataset 
+The MNSIT dataset contains ten classes: Digits from 0-9. Each digit is taken as a class
